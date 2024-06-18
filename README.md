@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+Bem+-+Vindo(a)!;+me+chamo+Renan+Gustavo!;" />
 </h1>
 
-• 🖥️Cursando Bacahrelado em Sistemas de informação pela UNOESTE.<br>
+• 🖥️Cursando Bacharelado em Sistemas de informação pela UNOESTE.<br>
 • 🎓Tecnico em desenvolvimento de sistemas pela ETEC.<br>
 • 👨🏻‍💻Estudando front-end/back-end.<br>
 • 🔮Materializando ideias em códigos desde 2021<br>
