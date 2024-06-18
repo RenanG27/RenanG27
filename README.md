@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Renan Gustavo
 <div>
   <a href="https://github.com/RenanG27">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RenanG27&show_icons=true&theme=transparent&show=reviews">
-  <img height="180cm" widht="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanG27&theme=transparent&layout=compact&langs_count=16">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=RenanG27&show_icons=true&theme=transparent&show=reviews">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanG27&theme=transparent&layout=compact&langs_count=16">
 </div>
 
 
