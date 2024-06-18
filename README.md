@@ -2,6 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+Bem+-+Vindo(a)!;+me+chamo+Renan+Gustavo!;" />
 </h1>
 
+• 🖥️Cursando Bacahrelado em Sistemas de informação pela UNOESTE.<br>
+• 🎓Tecnico em desenvolvimento de sistemas pela ETEC.<br>
+• 👨🏻‍💻Estudando front-end/back-end.<br>
+• 🔮Materializando ideias em códigos desde 2021<br>
+
 <div>
   <a href="https://github.com/RenanG27">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=RenanG27&show_icons=true&theme=transparent&show=reviews">
@@ -16,15 +21,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  ![snake gif](https://github.com/RenanG27/RenanG27/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div>
+  <a href = "renan27042004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/renan-gustavo-ba6188242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
